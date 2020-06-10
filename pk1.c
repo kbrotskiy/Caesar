@@ -23,7 +23,7 @@ rotateSwap = rotatorN - n - 1;
 string4[i] = 'a';
 string4[i] += rotateSwap;
 }
-else
+else --
 string4[i] += rotatorN;
 
 }
